@@ -102,9 +102,61 @@ nav a:hover {
 
 .services h2 {
     text-align: center;
+    text-transform: uppercase;
+    color: #695E7A;
 }
 
-.offer {
-    padding-left: 40px;
+.offer ul li {
+    line-height: 1em;
+    padding: 5px;
 }
+
+.offer h3 {
+    text-decoration: underline;
+    padding-left: 30px;
+    text-transform: uppercase;
+}
+
+div .equipments {
+    background-color: #FF9B7F;
+}
+
+/* payment plan*/
+
+div .plan {
+    text-align: center;
+
+}
+
+div #six-months {
+    line-height: 2.5em;
+}
+
+div #one-year {
+    line-height: 1.7em;
+}
+
+div button {
+    background-color: #FF9B7F;
+    height:30px;
+    width: 100px;
+}
+
+/* Footer */
+
+footer {
+    position: relative;
+    margin-top: 50px;
+}
+
+div .contact {
+    display: inline-block;
+    margin-left: 20px;
+    width: 100%;
+    color: white;
+    background-color: #695E7A;
+
+}
+
+
 
