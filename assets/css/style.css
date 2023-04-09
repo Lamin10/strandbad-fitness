@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family:'Courier New', Courier, monospace;
+    background-color: rgba(255, 155, 127, 0.3);
 }
 
 /* Logo and navigation */
@@ -74,11 +75,36 @@ nav a:hover {
     width: 30%;
     text-align: center;
     color: #695E7A;
-    border-radius: 10px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
     background-color: #FF9B7F;
 }
 
 #hero-image p {
     color: white;
+}
+
+/* services */
+
+
+.services div {
+    display: inline-block;
+    color: white;
+    background-color: #695E7A;
+    height: 250px;
+    width: 25%;
+    padding: 40px;
+    margin-left: 20px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;  
+
+}
+
+.services h2 {
+    text-align: center;
+}
+
+.offer {
+    padding-left: 40px;
 }
 
