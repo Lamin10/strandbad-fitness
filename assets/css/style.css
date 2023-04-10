@@ -95,6 +95,7 @@ nav a:hover {
     width: 25%;
     padding: 40px;
     margin-left: 20px;
+    margin-bottom: 20px;
     border-bottom-right-radius: 50px;
     border-top-left-radius: 50px;  
 
@@ -146,28 +147,39 @@ div button {
 
 footer {
     background-color: #695E7A;
-    height: 150px;
+    height: auto;
     width: 100%;
-    margin-top: 40px;
 }
 
 .bottom {
     text-align: center;
+    color: white;
 }
 
-.bottom ul {
+.bottom ul li {
     text-align: left;
+    list-style-type: none;
 }
 
 .bottom div {
     display: inline-block;
     padding: 40px 20px;
-    color: white;
-    text-align: center;
-    line-height: 1.5em;
-    padding-bottom: 20px;
+    line-height: 1.9em;
+    margin-right: 100px;
     
 }
+
+.bottom ul i {
+    color: #ffffff;
+    size: 100px;
+}
+
+.bottom ul a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
 
 
 
