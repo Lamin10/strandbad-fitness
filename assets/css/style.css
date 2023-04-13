@@ -213,6 +213,62 @@ footer {
     padding: 20px;
 }
 
+/* About us */
+
+.our-services {
+    height: auto;
+    width: 100%;
+    border: 3px solid #695E7A;
+    margin: 10px 40px;
+    text-align: center;
+    padding: 20px 40px;
+    line-height: 30px;
+    color: #695E7A;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+div h2 {
+    text-align: center;
+}
+
+.team {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 10px 40px;
+}
+
+.our-team img {
+    width: 350px;
+    height: 350px;
+    padding: 10px 10px;
+    border-radius: 50%;
+}
+
+.team #manager {
+    margin: 10px;
+    width: 30%;
+    text-align: center;
+    color: #fff;
+}
+
+.team #finance {
+    margin: 10px;
+    width: 30%;
+    text-align: center;
+    color:#fff;
+}
+
+.team #coach {
+    margin: 10px;
+    width: 30%;
+    text-align: center;
+    color: #fff
+}
+
+
 
 
 
