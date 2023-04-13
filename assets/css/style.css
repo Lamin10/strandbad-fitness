@@ -204,6 +204,12 @@ footer {
 }
 
 
+.gallery img {
+    height: 500px;
+    margin: 10px 0;
+    border-radius: 20px;
+}
+
 
 .main-section .main-gallery .gallery {
     display: flex;
