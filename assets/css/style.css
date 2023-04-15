@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
 body {
     margin: 0;
     padding: 0;
-    font-family:'Courier New', Courier, monospace;
-    background-color: rgba(255, 155, 127, 0.3);
+    font-family: Roboto+condensed, Courier, monospace;
+    background-color: rgba(255, 155, 127, 0.9);
 }
 
 /* Logo and navigation */
@@ -221,17 +222,20 @@ footer {
 
 /* About us */
 
+
 .our-services {
     height: auto;
-    width: 100%;
+    width: 90%;
     border: 3px solid #695E7A;
-    margin: 10px 40px;
+    margin: 10px 20px;
     text-align: center;
     padding: 20px 40px;
     line-height: 30px;
     color: #695E7A;
     font-weight: 600;
-    font-size: 17px;
+    font-size: 20px;
+    word-spacing: 4px;
+    border-radius: 20px;
 }
 
 div h2 {
@@ -239,7 +243,6 @@ div h2 {
 }
 
 .team {
-    background-color: red;
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -251,6 +254,7 @@ div h2 {
     height: 350px;
     padding: 10px 10px;
     border-radius: 50%;
+    border: 2px solid #695E7A;
 }
 
 .team #manager {
@@ -277,7 +281,7 @@ div h2 {
 /* Registration Form */
 
 #form {
-    margin:0;
+    margin:20px;
     padding: 0;
     height: 900px;
     background: url("../images/background.jpg") no-repeat center center;
