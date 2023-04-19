@@ -93,13 +93,14 @@ nav a:hover {
     display: inline-block;
     color: white;
     background-color: #695E7A;
-    height: 250px;
+    height: auto;
     width: 25%;
-    padding: 40px;
+    padding: 30px;
     margin-left: 20px;
     margin-bottom: 20px;
     border-bottom-right-radius: 50px;
-    border-top-left-radius: 50px;  
+    border-top-left-radius: 50px; 
+    text-align: center; 
 
 }
 
@@ -107,6 +108,13 @@ nav a:hover {
     text-align: center;
     text-transform: uppercase;
     color: #695E7A;
+}
+
+
+
+div .equipments {
+    margin: 15px;
+    background-color: #D87F90;
 }
 
 .offer ul li {
@@ -120,14 +128,12 @@ nav a:hover {
     text-transform: uppercase;
 }
 
-div .equipments {
-    background-color: #D87F90;
-}
 
 /* payment plan*/
 
 div .plan {
     text-align: center;
+    margin: 15px;
 
 }
 
@@ -327,6 +333,153 @@ form {
 form #button {
     text-transform: uppercase;
 }
+
+
+@media screen and (max-width: 1250px) {
+
+    .services div {
+        clear: left;
+        width: 20%;
+        margin-left: 40px;
+        text-align: center;
+        
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 980px) {
+
+    nav {
+        clear: left;
+        float: left;
+        margin-left: 0px;
+        margin-bottom: 40px;
+        margin-top: 0px;
+        line-height: 5px;
+    }
+
+
+    #header {
+        width: 100%;
+        height: 100px;
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+    }
+
+    #logo {
+        margin-left: 40px;
+    }
+
+
+    div .offer {
+        clear: left;
+        width: 20%;
+        text-align: center;
+        overflow-y: no-display;
+
+    }
+
+    div .equipments {
+        clear: left;
+        width: 20%;
+        text-align: center;
+        overflow-y: no-display;
+
+        
+    }
+
+    div .plan {
+        clear: left;
+        width: 20%;
+        text-align: center;
+        overflow-y: no-display;
+
+    }
+
+   
+}
+
+@media screen and (max-width: 900px) {
+
+    
+    div .offer {
+       margin-left: 20px;
+       margin-right: 20px;
+       padding: 15px;
+       text-align: center;
+
+    }
+
+    div .equipments {
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 15px;
+        text-align: center;
+       
+
+        
+    }
+
+    div .plan {
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 15px;
+        text-align: center;
+       
+
+    }
+
+
+}
+
+@media screen and (max-width: 662px) {
+
+    nav a {
+        clear: left;
+        font-size: 17px;
+
+    
+    }
+
+    
+    div .offer {
+       margin-left: 10px;
+       margin-right: 10px;
+       padding: 25px;
+       text-align: center;
+
+    }
+
+    div .equipments {
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 25px;
+        text-align: center;
+       
+
+        
+    }
+
+    div .plan {
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 25px;
+        text-align: center;
+       
+
+    }
+
+
+}
+
+
+
+
+
+
 
 
 
