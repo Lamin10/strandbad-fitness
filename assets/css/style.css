@@ -43,7 +43,7 @@ nav ul li {
 nav a {
     color: #ffffff;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 1.5rem;
     font-weight: bold;
     text-transform: uppercase;
 
@@ -52,7 +52,7 @@ nav a {
 nav a:hover {
     background-color: #FF9B7F;
     color: black;
-    border: solid 1px black;
+    border: solid 1px #fff;
     padding: 5px;
 }
 
@@ -148,8 +148,8 @@ div #one-year {
 div button {
     background-color: #FF9B7F;
     color: white;
-    height:50px;
-    width: 100px;
+    height:3.1rem;
+    width: 6.2rem;
     border: solid 3px #A06E8F;
     border-radius: 10px;
 }
@@ -237,7 +237,7 @@ footer {
     text-align: center;
     padding: 20px 40px;
     line-height: 30px;
-    color: #695E7A;
+    color: #ffffff;
     font-weight: 600;
     font-size: 20px;
     word-spacing: 4px;
@@ -256,8 +256,8 @@ div h2 {
 }
 
 .our-team img {
-    width: 350px;
-    height: 350px;
+    width: 16.7rem;
+    height: 16.7rem;
     padding: 10px 10px;
     border-radius: 50%;
     border: 2px solid #695E7A;
@@ -399,6 +399,13 @@ form #button {
 
     }
 
+    .our-team img {
+        width: 14rem;
+        height: 14rem;
+        
+        
+    }
+
    
 }
 
@@ -432,6 +439,18 @@ form #button {
 
     }
 
+    .gallery img {
+        height: 300px;
+        margin: 5px 0;
+
+    }
+
+    .our-team img {
+        width: 12.5rem;
+        height: 12.5rem;
+        
+    }
+
 
 }
 
@@ -444,12 +463,21 @@ form #button {
     
     }
 
+
+.offer ul li {
+    line-height: 1em;
+    list-style-type: none;
+    
+}
+
     
     div .offer {
        margin-left: 10px;
        margin-right: 10px;
        padding: 25px;
        text-align: center;
+       font-size: 1rem;
+
 
     }
 
@@ -472,6 +500,93 @@ form #button {
 
     }
 
+    .gallery img {
+        height: 250px;
+        margin: 5px 0;
+
+    }
+
+    .our-team img {
+        width: 10rem;
+        height: 10rem;
+        
+    }
+
+
+}
+
+@media screen and (max-width: 562px) {
+
+   
+
+#hero-image {
+ 
+
+}
+
+.offer h3 {
+    text-align: left;
+    font-size: 0.8rem;
+}
+
+
+
+    
+    div .offer {
+       margin-left: 10px;
+       margin-right: 10px;
+       padding-left: 5px;
+       padding-right: 35px;
+       text-align: center;
+       font-size: 1rem;
+       height: auto;
+
+
+    }
+
+    div .equipments {
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-left: 5px;
+        padding-right: 35px;
+        text-align: center;
+        font-size: 1rem;
+        
+       
+
+        
+    }
+
+    div .plan {
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 25px;
+        text-align: center;
+        font-size: 1rem;
+       
+
+    }
+
+    div button {
+        height: 2.5rem;
+        width: 4.2rem;
+        font-size: 0.6rem;
+        
+        
+       
+    }
+
+    .gallery img {
+        height: 250px;
+        margin: 5px 0;
+
+    }
+
+    .our-team img {
+        width: 8rem;
+        height: 8rem;
+        
+    }
 
 }
 
