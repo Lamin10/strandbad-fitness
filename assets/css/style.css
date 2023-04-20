@@ -287,7 +287,7 @@ div h2 {
 /* Registration Form */
 
 #form {
-    margin:20px;
+    margin:50px;
     padding: 0;
     height: 900px;
     background: url("../images/background.jpg") no-repeat center center;
@@ -299,7 +299,7 @@ form {
     max-width: 600px;
     background: rgba(255, 155, 127, 0.9);
     position: absolute;
-    top: 150%;
+    top: 100%;
     left: 50%;
     transform: translate(-50%, -50%); 
     padding: 50px;
@@ -330,8 +330,22 @@ form {
     border-radius: 5px;
 }
 
+form h2 {
+    color: #695E7A;
+    text-transform: uppercase; 
+}
+
 form #button {
+    background-color: #695E7A;
+    color: #fff;
     text-transform: uppercase;
+    font-size: 1.2rem;
+}
+
+#button:hover {
+    background-color: #fff;
+    color: #695E7A;
+    border: 1px solid #695E7A;
 }
 
 
@@ -470,6 +484,10 @@ form #button {
     
 }
 
+.equipments ul li {
+    list-style-type: none;
+}
+
     
     div .offer {
        margin-left: 10px;
@@ -512,17 +530,26 @@ form #button {
         
     }
 
+    .register {
+        margin: 10px 0;
+        padding: 5px 10px;
+    }
+
+    form {
+        padding: 30px;
+    }
+
 
 }
 
 @media screen and (max-width: 562px) {
 
-   
+    #hero-image {
+        position: absolute;
+        float: left;
+    }
 
-#hero-image {
- 
 
-}
 
 .offer h3 {
     text-align: left;
@@ -586,6 +613,25 @@ form #button {
         width: 8rem;
         height: 8rem;
         
+    }
+
+    .register {
+        margin: 5px 0;
+        padding: 3px 5px;
+    }
+
+    form {
+        padding: 20px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #form {
+        margin: 30px;
+    }
+
+    form #button {
+        font-size: 1rem;
     }
 
 }
