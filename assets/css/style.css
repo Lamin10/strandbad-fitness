@@ -2,7 +2,8 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Roboto*Condensed;
+    font-family: Roboto+Condensed, Arial, Helvetica, sans-serif;
+    background: #FF9B7F;
 
 }
 
@@ -86,9 +87,6 @@ nav a:hover {
     color: white;
 }
 
-/* services */
-
-
 .services div {
     display: inline-block;
     color: white;
@@ -96,18 +94,20 @@ nav a:hover {
     height: auto;
     width: 25%;
     padding: 30px;
-    margin-left: 20px;
     margin-bottom: 20px;
     border-bottom-right-radius: 50px;
-    border-top-left-radius: 50px; 
-    text-align: center; 
-
+    border-top-left-radius: 50px;
+    text-align: center;
 }
 
 .services h2 {
     text-align: center;
     text-transform: uppercase;
     color: #695E7A;
+}
+
+div .offer {
+    margin: 15px;
 }
 
 
@@ -145,18 +145,16 @@ div #one-year {
     line-height: 1.7em;
 }
 
-div button {
+div .button {
     background-color: #FF9B7F;
-    color: white;
-    height:3.1rem;
-    width: 6.2rem;
-    border: solid 3px #A06E8F;
-    border-radius: 10px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: 695E7A;
+    font-weight: bold;
 }
 
-div button:hover {
-    background-color: #ffffff;
-    color: #695E7A; 
+div .button:hover {
+    background-color: white;
 }
 
 /* Footer */
@@ -197,33 +195,18 @@ footer {
 
 /* Gallery */
 
-.main-section {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 10px;
-}
+
 
 .main-gallery {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-
-.main-section .main-gallery .gallery {
-    display: flex;
-    flex-direction: column;
-    width: 30%;
-    border-radius: 5px;
-    padding: 20px;
+    clear: both;
+    column-count: 3;
+    margin: 30px;
 }
 
 .gallery img {
-    height: 500px;
-    margin: 10px 0;
-    border-radius: 20px;
+    width: 100%;
 }
+    
 
 /* About us */
 
@@ -408,21 +391,6 @@ form #button {
         text-align: center;
 
     }
-
-    .main-section .main-gallery .gallery {
-        display: flex;
-        flex-direction: column;
-        width: 30%;
-        border-radius: 5px;
-        padding: 15px;
-    }
-
-    .gallery img {
-        height: 200px;
-        margin-left: 20px;
-        margin-right: 20px;
-    }
-
 
 
     .our-team img {
