@@ -118,6 +118,7 @@ div .equipments {
 }
 
 .offer ul li {
+    list-style-type: none;
     line-height: 1em;
     padding: 5px;
 }
