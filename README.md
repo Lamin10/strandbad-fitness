@@ -9,3 +9,5 @@ At the right side of the navigation are the navigation links which includ the ho
 about us and a link to a registration page
 
 
+
+
