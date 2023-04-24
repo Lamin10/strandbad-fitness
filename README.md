@@ -13,6 +13,8 @@ about us and a link to a registration page
 The Hero image is a man working out on a treadmill machine which tells the user exactly what this site is about.
 On the leftside of the image is a messagege welcoming the user to the gym strandbad fitness
 
+![Strandbad Fitness (1)](https://user-images.githubusercontent.com/125648375/233972244-cfd29bd1-cad8-4af7-8cd2-d21371a9b4a1.png)
+
 The services section contain all the services they offer and the facillities provided for their gym members and all the 
 the working out machines at their disposal. 
 the payment plans also can be seen on the services section which when a choosen plan is cliked it directs you straight to
