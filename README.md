@@ -7,7 +7,7 @@ Navigation
 At the left of the navigation is the gyms logo Strandbad Fitness with a white and pink color.
 At the right side of the navigation are the navigation links which includ the home page, gallery,
 about us and a link to a registration page
-
+![Strandbad Fitness](https://user-images.githubusercontent.com/125648375/233965467-7012acdf-e6d6-4aa0-9f09-1912f7175596.png)
 
 
 
