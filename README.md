@@ -28,6 +28,8 @@ The footer area consist of the gyms opening and closing time, contact informatio
 
 The gallery is a collection of photos of their gym members on training sessions
 
+![Strandbad Fitness](https://user-images.githubusercontent.com/125648375/234085904-669e3b5d-5cd8-4ff9-9b35-908924c51b49.png)
+
 The about us page consist of information about the gym and those who run the gym
 
 ![b8566cbf-6cb3-4e6d-bac4-3d22659e4d7e](https://user-images.githubusercontent.com/125648375/234085709-f1a0fc7a-3786-41dc-85ad-c36efa7eb0ee.png)
