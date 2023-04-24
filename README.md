@@ -2,8 +2,8 @@ Strendbad Fitness is a fictional gym center where people who love fitness can ac
 based on their choice of plan which can be a six months to a two years plan. Users will be abe to navigate 
 through the services provided by the gym the facilities and all the machines at the gyms disposal .
 
-Features
-Navigation
+#Features
+##Navigation
 At the left of the navigation is the gyms logo Strandbad Fitness with a white and pink color.
 At the right side of the navigation are the navigation links which includ the home page, gallery,
 about us and a link to a registration page
@@ -39,4 +39,9 @@ the form include an input area for first name, last name and email.
 
 ![Strandbad Fitness (4)](https://user-images.githubusercontent.com/125648375/234087684-63cae96b-6b90-4890-9e2b-0ce458480b31.png)
 
-
+Validator Testing
+Unfixed Bugs
+Deployment
+Credits
+Contents
+Media
