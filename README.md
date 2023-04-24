@@ -24,6 +24,8 @@ the registration page to register for a membership
 
 The footer area consist of the gyms opening and closing time, contact information, a navigation menu to the different pages and links to the gyms social media pages which opens in a new tab
 
+![Strandbad Fitness (3)](https://user-images.githubusercontent.com/125648375/233973408-78d5714d-f285-4169-a511-e365ec09eb86.png)
+
 The gallery is a collection of photos of their gym members on training sessions
 
 The about us page consist of information about the gym and those who run the gym
