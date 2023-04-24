@@ -20,6 +20,8 @@ the working out machines at their disposal.
 the payment plans also can be seen on the services section which when a choosen plan is cliked it directs you straight to
 the registration page to register for a membership
 
+![Strandbad Fitness (2)](https://user-images.githubusercontent.com/125648375/233972968-59a15766-2b61-4607-b041-7ccb801fffc2.png)
+
 The footer area consist of the gyms opening and closing time, contact information, a navigation menu to the different pages and links to the gyms social media pages which opens in a new tab
 
 The gallery is a collection of photos of their gym members on training sessions
