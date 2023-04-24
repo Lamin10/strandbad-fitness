@@ -34,5 +34,9 @@ The about us page consist of information about the gym and those who run the gym
 
 ![b8566cbf-6cb3-4e6d-bac4-3d22659e4d7e](https://user-images.githubusercontent.com/125648375/234085709-f1a0fc7a-3786-41dc-85ad-c36efa7eb0ee.png)
 
+The registration page is where potential gym members can register for membership.
+the form include an input area for first name, last name and email.
+
+![Strandbad Fitness (4)](https://user-images.githubusercontent.com/125648375/234087684-63cae96b-6b90-4890-9e2b-0ce458480b31.png)
 
 
