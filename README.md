@@ -58,14 +58,14 @@ the form include an input area for first name, last name and email.
 
 ##Validator Testing
 **HTML**
-   *No errors were found when testing the site  for bugs at WC3 validator
+   *No errors were found when testing the site  for bugs at [WC3 validator](https://validator.w3.org/)
 **CSS**
-   *No errors where identified after testing the site at (jigsaw) validator
+   *No errors where identified after testing the site at [(jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 **Unfixed Bugs**
 **Deployment**
 ##Credits
 ###Contents
 *The font for the site was taken from google fonts
-*The address for submiting the form was taking from the code institute form address
+*The address for submiting the form was taking from the [code institute] form address(https://codeinstitute.net/)
 ###Media
-*The Photos in the website where taken from Pixabay and Pexel
+*The Photos in the website where taken from [Pixabay] (https://pixabay.com/) and [Pexel](https://www.pexels.com/)
