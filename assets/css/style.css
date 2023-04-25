@@ -2,9 +2,8 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Roboto+Condensed, Arial, Helvetica, sans-serif;
-    background: #FF9B7F;
-
+    font-family: Roboto Condensed, Arial, Helvetica, sans-serif;
+    background-color: #FF9B7F;
 }
 
 /* Logo and navigation */
@@ -157,7 +156,7 @@ div .button {
     background-color: #FF9B7F;
     border: 1px solid white;
     text-decoration: none;
-    color: 695E7A;
+    color: #695E7A;
     font-weight: bold;
 }
 
@@ -300,7 +299,7 @@ form {
     max-width: 600px;
     background: rgba(255, 155, 127, 0.9);
     position: absolute;
-    top: 150%;
+    top: 100%;
     left: 50%;
     transform: translate(-50%, -50%); 
     padding: 50px;
@@ -533,7 +532,7 @@ form #button {
 
 }
 
-@media screen and (max-width: 768pxpx) {
+@media screen and (max-width: 768px) {
 
     div .offer {
         width: 30%;
