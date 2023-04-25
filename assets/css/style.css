@@ -222,21 +222,31 @@ footer {
 .our-services {
     height: auto;
     width: 90%;
-    border: 3px solid #695E7A;
+    border: 3px solid #371864;
     margin: 10px 20px;
     text-align: center;
     padding: 20px 40px;
     line-height: 30px;
-    color: #695E7A;
+    color: #371864;
     font-weight: 600;
     font-size: 20px;
     word-spacing: 4px;
     border-radius: 20px;
 }
 
-div h2 {
+#about-us h2 {
+    margin: 30px;
     text-align: center;
-    color: #695E7A;
+    color: #371864;
+}
+
+#reg {
+    text-decoration: none;
+    color: #371864;
+}
+
+#reg:hover {
+    color: #fff;
 }
 
 .team {
@@ -251,7 +261,7 @@ div h2 {
     height: 16.7rem;
     padding: 10px 10px;
     border-radius: 50%;
-    border: 2px solid #695E7A;
+    border: 2px solid #371864;
 }
 
 .team #manager {
@@ -290,7 +300,7 @@ form {
     max-width: 600px;
     background: rgba(255, 155, 127, 0.9);
     position: absolute;
-    top: 100%;
+    top: 150%;
     left: 50%;
     transform: translate(-50%, -50%); 
     padding: 50px;
@@ -407,6 +417,12 @@ form #button {
 
     }
 
+    .our-services {
+        margin-top: 50px;
+       
+     
+    }
+
 
     .our-team img {
         width: 14rem;
@@ -416,23 +432,27 @@ form #button {
     }
 
    
+
+   
 }
 
 @media screen and (max-width: 900px) {
 
     
     div .offer {
-       margin-left: 20px;
-       margin-right: 20px;
-       padding: 15px;
+       width: 25%;
+       margin-left: 10px;
+       margin-right: 10px;
+       padding: 10px;
        text-align: center;
 
     }
 
     div .equipments {
-        margin-left: 20px;
-        margin-right: 20px;
-        padding: 15px;
+        width: 25%;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 10px;
         text-align: center;
        
 
@@ -440,9 +460,10 @@ form #button {
     }
 
     div .plan {
-        margin-left: 20px;
-        margin-right: 20px;
-        padding: 15px;
+        width: 25%;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 10px;
         text-align: center;
        
 
@@ -468,30 +489,25 @@ form #button {
 
 @media screen and (max-width: 820px) {
     div .offer {
-        margin-left: 20px;
-        margin-right: 20px;
-        padding: 25px;
-        text-align: center;
-        font-size: 1rem;
+        width: 25%;
+        margin-left: 25px;
+      
  
  
      }
  
      div .equipments {
-         margin-left: 20px;
-         margin-right: 20px;
-         padding: 25px;
-         text-align: center;
+         width: 25%;
+         margin-left: 25px;
+       
         
  
          
      }
  
      div .plan {
-         margin-left: 20px;
-         margin-right: 20px;
-         padding: 25px;
-         text-align: center;
+         width: 25%;
+         margin-left: 25px;
         
  
      }
@@ -520,7 +536,7 @@ form #button {
 @media screen and (max-width: 768pxpx) {
 
     div .offer {
-        with: 30%;
+        width: 30%;
         margin-left: 10px;
         margin-right: 10px;
         padding: 5px;
@@ -552,7 +568,7 @@ form #button {
 
      .our-services {
         width: 65%;
-        margin-rignt: 30px;
+        margin-right: 30px;
         margin-left: 0px;
         padding: 5px 0px;
      
@@ -620,10 +636,15 @@ form #button {
 
     .our-services {
         width: 90%;
-        margin-rignt: 0px;
-        margin-left: 50px;
+        margin-right: 0px;
+        margin-left: 10px;
         padding: 5px 0px;
      
+    }
+
+    .team {
+        margin-left: 0px;
+        margin-right: 10px;
     }
 
 
@@ -649,7 +670,6 @@ form #button {
     nav a {
         font-size: 12px;
         padding: 0px;
-        margin-left: 5px;
 
     
     }
@@ -705,7 +725,7 @@ form #button {
      
     }
 
-    .about-us h2 {
+    #about-us h2 {
         text-align: center;
     }
 
@@ -715,7 +735,7 @@ form #button {
     .our-team img {
         width: 8rem;
         height: 8rem;
-        
+        margin-left: 10px;
     }
 
     .register {
@@ -809,8 +829,14 @@ div .plan {
    
 
 }
-.about-us h2 {
+#about-us h2 {
     text-align: center;
+}
+
+
+.our-team img {
+    width: 6rem;
+    height: 6rem;
 }
 
 }
