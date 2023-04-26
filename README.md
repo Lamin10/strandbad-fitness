@@ -10,9 +10,9 @@ through the services provided by the gym the facilities and all the machines at 
 
 At the left of the navigation is the gyms logo Strandbad Fitness with a white and pink color.
 
-At the right side of the navigation are the navigation links which includ the home page, gallery,
+At the right side of the navigation are the navigation links which includ the home page, gallery, about us and a link to a registration page
 
-about us and a link to a registration page
+![Strandbad Fitness logo on the left and the navigation menu on the right](assets/images/header1.jpg.png)
 
 
 **Hero image**
@@ -20,6 +20,8 @@ about us and a link to a registration page
 The Hero image is a man working out on a treadmill machine which tells the user exactly what this site is about.
 
 On the leftside of the image is a messagege welcoming the user to the gym strandbad fitness
+
+![A man working out on a treadmill machine](assets/images/hero1.jpg.png)
 
 
 
@@ -33,10 +35,12 @@ the payment plans also can be seen on the services section which when a choosen 
 
 the registration page to register for a membership
 
-
+![List of sevices,facilities, and payment plans of a gym](assets/images/services1.jpg.png)
 
 **Footer**
 The footer area consist of the gyms opening and closing time, contact information, a navigation menu to the different pages
+
+![Footer of a web page consiting of opening times, contact info and social media links](assets/images/footer1.jpg.png)
 
 and links to the gyms social media pages which opens in a new tab
 
@@ -44,12 +48,15 @@ and links to the gyms social media pages which opens in a new tab
 
 The gallery is a collection of photos of their gym members on training sessions.
 
+![A phot gallery of a gym](assets/images/gallery1.jpg.png)
 
 **About us**
 
 The about us page consist of information about the gym and those who run the gym the Managing director the Finance manager,
 
 and the senior coach of the gym
+
+![Two men an a woman](assets/images/team1.jpg.png)
 
 
 
@@ -58,6 +65,8 @@ and the senior coach of the gym
 The registration page is where potential gym members can register for membership
 .
 the form include an input area for first name, last name email and Register button.
+
+![A registration form](assets/images/register1.jpg.png)
 
 
 
@@ -86,9 +95,13 @@ the form include an input area for first name, last name email and Register butt
 **HTML**
 
    No errors were found when testing the site  for bugs at [WC3 validator](https://validator.w3.org/)
+
+   ![Wc3 markup code cheecker screenshot](assets/images/w3c-markup.jpg.png)
    
 **CSS**
    No errors where identified after testing the site at [(jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+
+   ![Wc3 css code cheecker screenshot](assets/images/w3c-css.jpg.png)
    
 **SEO Testing**
 
@@ -108,7 +121,7 @@ The address for submiting the form was taking from the [code institute] form add
 
 ###Media
 
-The Photos in the website where taken from [Pixabay] (https://pixabay.com/) and [Pexels](https://www.pexels.com/)
+The Photos in the website where taken from [Pixabay] (https://www.pixabay.com/) and [Pexels](https://www.pexels.com/)
 
 The social media icons on the footer of the page was taken from [Font-Awesome](https://fontawesome.com/icons)
 
