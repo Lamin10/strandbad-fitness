@@ -4,7 +4,7 @@ based on their choice of plan which can be a six months to a two years plan. Use
 
 through the services provided by the gym the facilities and all the machines at the gyms disposal .
 
-#Features
+**Features**
 
 **Navigation**
 
@@ -74,29 +74,29 @@ the form include an input area for first name, last name email and Register butt
 
 **Background color:**
 
-  -Body: #FF9B7F
+   Body: #FF9B7F
    
-  -Header: #695E7A
+   Header: #695E7A
    
-  -Main area: #695E7A #D87F90
+   Main area: #695E7A #D87F90
    
-  -Footer: #695E7A
+   Footer: #695E7A
    
 **Font-colors:**
 
-  -Logo: #FF9B7F #FAEAFF
+   Logo: #FF9B7F #FAEAFF
    
 **Font-Family:** Roboto+condensed.
 
 **Backup Fonts:** Arial, Helvetica, sans-serif.
 
-##Validator Testing
+**Validator Testing**
 
 **HTML**
 
    No errors were found when testing the site  for bugs at [WC3 validator](https://validator.w3.org/)
 
-   ![W3c markup code cheecker screenshot](assets/images/w3c-markup.jpg)
+   ![W3c markup code cheecker screenshot](assets/images/w3c.png)
    
 **CSS**
    No errors where identified after testing the site at [(jigsaw) validator](https://jigsaw.w3.org/css-validator/)
@@ -105,7 +105,9 @@ the form include an input area for first name, last name email and Register butt
    
 **SEO Testing**
 
-  -Light House
+  Light House
+
+  ![lighthous screenshot](assets/images/lighthous.jpg.jpg)
 
 **Unfixed Bugs**
 
@@ -113,15 +115,15 @@ There were no unfixed bugs
 
 **Deployment**
 
-##Credits
+**Credits**
 
-###Contents
+**Contents**
 
 The font for the site was taken from google fonts
 
 The address for submiting the form was taking from the [code institute] form address(https://codeinstitute.net/)
 
-###Media
+Media
 
 The Photos in the website where taken from [Pixabay] (https://pixabay.com/) and [Pexels](https://www.pexels.com/)
 
@@ -137,11 +139,11 @@ Github was used as a hosting platform for storing and tracking this project and 
 
 **Font Awesome**
 
-  -For icons social media icons
+   For icons social media icons
   
 **Google Fonts
 
-  -For fonts used in this side
+   For fonts used in this side
 
 **Gitpod**
 
@@ -157,9 +159,11 @@ to writing the README.md file
 
 **Languages used** 
 
- -HTML5
+  HTML5
 
- -CSS3
+  CSS3
+
+ ![HTML and CSS percentage bar](assets/images/lang.jpg.png)
 
 
 

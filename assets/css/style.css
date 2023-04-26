@@ -838,6 +838,13 @@ div .plan {
     height: 6rem;
 }
 
+form {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+  
+}
+
 }
 
 @media screen and (max-width: 360px) {
