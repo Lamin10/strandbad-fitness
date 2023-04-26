@@ -40,6 +40,8 @@ the registration page to register for a membership
 **Footer**
 The footer area consist of the gyms opening and closing time, contact information, a navigation menu to the different pages
 
+and social links to the various social page of the site.
+
 ![Footer of a web page consiting of opening times, contact info and social media links](assets/images/footer1.jpg.png)
 
 and links to the gyms social media pages which opens in a new tab
@@ -74,17 +76,17 @@ the form include an input area for first name, last name email and Register butt
 
 **Background color:**
 
-   Body: #FF9B7F
+  -Body: #FF9B7F
    
-   Header: #695E7A
+  -Header: #695E7A
    
-   Main area: #695E7A #D87F90
+  -Main area: #695E7A #D87F90
    
-   Footer: #695E7A
+  -Footer: #695E7A
    
 **Font-colors:**
 
-   Logo: #FF9B7F #FAEAFF
+  -Logo: #FF9B7F #FAEAFF
    
 **Font-Family:** Roboto+condensed.
 
@@ -105,9 +107,11 @@ the form include an input area for first name, last name email and Register butt
    
 **SEO Testing**
 
-Light House
+  -Light House
 
 **Unfixed Bugs**
+
+There were no unfixed bugs
 
 **Deployment**
 
@@ -135,21 +139,29 @@ Github was used as a hosting platform for storing and tracking this project and 
 
 **Font Awesome**
 
-  For icons social media icons
+  -For icons social media icons
   
 **Google Fonts
 
-  For fonts used in this side
+  -For fonts used in this side
 
-Gitpod
+**Gitpod**
 
-Codeanywhere
+The project started at gitpod and carried on up to the stage of designing the web for mobile and tablet 
+
+responsiveness that is when it migrated to Codeanywhere.
+
+**Codeanywhere**
+
+This is the platform we completed the project starting from designing the site for different screen size up
+
+to writing the README.md file
 
 **Languages used** 
 
-HTML5
+ -HTML5
 
-CSS3
+ -CSS3
 
 
 
