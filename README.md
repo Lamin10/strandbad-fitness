@@ -70,8 +70,6 @@ the form include an input area for first name, last name email and Register butt
 
 ![A registration form](assets/images/register1.jpg.png)
 
-
-
 ###Colors
 
 **Background color:**
@@ -125,7 +123,7 @@ The address for submiting the form was taking from the [code institute] form add
 
 ###Media
 
-The Photos in the website where taken from [Pixabay] (https://www.pixabay.com/) and [Pexels](https://www.pexels.com/)
+The Photos in the website where taken from [Pixabay] (https://pixabay.com/) and [Pexels](https://www.pexels.com/)
 
 The social media icons on the footer of the page was taken from [Font-Awesome](https://fontawesome.com/icons)
 
