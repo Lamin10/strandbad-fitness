@@ -96,7 +96,7 @@ the form include an input area for first name, last name email and Register butt
 
    No errors were found when testing the site  for bugs at [WC3 validator](https://validator.w3.org/)
 
-   ![Wc3 markup code cheecker screenshot](assets/images/w3c-markup.jpg.png)
+   ![W3c markup code cheecker screenshot](assets/images/w3c-markup.jpg)
    
 **CSS**
    No errors where identified after testing the site at [(jigsaw) validator](https://jigsaw.w3.org/css-validator/)
