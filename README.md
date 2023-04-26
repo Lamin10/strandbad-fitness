@@ -90,6 +90,10 @@ the form include an input area for first name, last name email and Register butt
 **CSS**
    No errors where identified after testing the site at [(jigsaw) validator](https://jigsaw.w3.org/css-validator/)
    
+**SEO Testing**
+
+Light House
+
 **Unfixed Bugs**
 
 **Deployment**
@@ -104,8 +108,36 @@ The address for submiting the form was taking from the [code institute] form add
 
 ###Media
 
-The Photos in the website where taken from [Pixabay] (https://pixabay.com/) and [Pexel](https://www.pexels.com/)
+The Photos in the website where taken from [Pixabay] (https://pixabay.com/) and [Pexels](https://www.pexels.com/)
 
-The social media icons on the footer of the page was taken from [Fonts-Awesome]()
+The social media icons on the footer of the page was taken from [Font-Awesome](https://fontawesome.com/icons)
 
-The color pallet for the StrandBad Fitness side was taken from [Mycolor-space]()
+The color pallet for the StrandBad Fitness side was taken from [Mycolor-space](https://mycolor.space/)
+
+**Technology and programms used**
+
+**Github**
+
+Github was used as a hosting platform for storing and tracking this project and version control.
+
+**Font Awesome**
+
+  For icons social media icons
+  
+**Google Fonts
+
+  For fonts used in this side
+
+Gitpod
+
+Codeanywhere
+
+**Languages used** 
+
+HTML5
+
+CSS3
+
+
+
+
