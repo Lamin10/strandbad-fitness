@@ -456,8 +456,8 @@ form #button {
     
     div .offer {
        width: 25%;
-       margin-left: 10px;
-       margin-right: 10px;
+       margin-left: 45px;
+       margin-right: 0px;
        padding: 10px;
        text-align: center;
 
@@ -465,8 +465,8 @@ form #button {
 
     div .equipments {
         width: 25%;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 45px;
+        margin-right: 0px;
         padding: 10px;
         text-align: center;
        
@@ -476,8 +476,8 @@ form #button {
 
     div .plan {
         width: 25%;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 45px;
+        margin-right: 0px;
         padding: 10px;
         text-align: center;
        
@@ -507,10 +507,14 @@ form #button {
 
 
 @media screen and (max-width: 820px) {
+    #hero-image div {
+        margin-left: 35px;
+
+    }
     
     div .offer {
         width: 25%;
-        margin-left: 25px;
+        margin-left: 35px;
       
  
  
@@ -518,7 +522,7 @@ form #button {
  
      div .equipments {
          width: 25%;
-         margin-left: 25px;
+         margin-left: 35px;
        
         
  
@@ -527,7 +531,7 @@ form #button {
  
      div .plan {
          width: 25%;
-         margin-left: 25px;
+         margin-left: 35px;
         
  
      }
@@ -557,10 +561,14 @@ form #button {
 }
 
 @media screen and (max-width: 768px) {
+    #hero-image div {
+        margin-left: 45px;
+
+    }
 
     div .offer {
         width: 25%;
-        margin-left: 35px;
+        margin-left: 45px;
         margin-right: 0px;
         padding: 5px;
         
@@ -570,7 +578,7 @@ form #button {
  
      div .equipments {
          width: 25%;
-         margin-left: 35px;
+         margin-left: 45px;
          margin-right: 0px;
          padding: 5px;
         
@@ -581,7 +589,7 @@ form #button {
  
      div .plan {
          width: 25%;
-         margin-left: 35px;
+         margin-left: 45px;
          margin-right: 0px;
          padding: 5px;
     
@@ -781,7 +789,12 @@ form #button {
     .our-team img {
         width: 8rem;
         height: 8rem;
-        margin-left: 10px;
+        
+    }
+
+    .our-team {
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     .register {
@@ -803,7 +816,7 @@ form #button {
 
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 412px) {
     #logo{
         margin-left: 40px;
         font-size: 10px;
@@ -874,14 +887,23 @@ div .plan {
    
 }
 
+.main-gallery {
+    margin: 5px;
+}
+
 #about-us h2 {
     text-align: center;
 }
 
+.our-services {
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
 
 .our-team img {
-    width: 6rem;
-    height: 6rem;
+    width: 5.8rem;
+    height: 5.8rem;
 }
 
 form {
@@ -909,29 +931,73 @@ form {
        
     }
 
+    .our-services {
+        width: auto;
+        margin: 15px 0px;
+    }
+
+    .team {
+        margin-left: 0px;
+    }
+
 }
 
 @media screen and (max-width: 280px) {
     #hero-image div {
         height: 30%;
-        width: 50%;
+        width: 55%;
         
        
     }
 
    div .offer {
-        margin-left: 240px;
+        width: 80%;
+        margin-left: 15px;
+        margin-right: 20px;
        
     }
 
     div .equipments {
-        margin-left: 40px;
+        width: 80%;
+        margin-left: 15px;
+        margin-right: 20px;
     }
 
     div .plan {
-        margin-left: 40px;
+        width: 80%;
+        margin-left: 15px;
+        margin-right: 20px;
        
     }
+
+    .main-gallery {
+        margin: 5px;
+    }
+
+    #about-us {
+        margin-left: 0px;
+        margin-right: 40px;
+        padding: 0px 0px;
+    }
+
+    .team {
+        display: flex;
+        flex-direction: column;
+        margin-left: 0px;
+        margin-right: 10px;
+        margin-top: 20px;
+    
+    }
+
+  
+
+    .team img {
+        width: 14rem;
+        height: 14rem;
+
+    }
+
+    
 
     form {
         top: 80%;
