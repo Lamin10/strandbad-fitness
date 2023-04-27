@@ -70,7 +70,7 @@ the form include an input area for first name, last name email and Register butt
 
 ![A registration form](assets/images/register1.jpg.png)
 
-###Colors
+**Colors**
 
 **Background color:**
 
@@ -169,7 +169,7 @@ Github was used as a hosting platform for storing and tracking this project and 
 
    For icons social media icons
   
-**Google Fonts
+**Google Fonts**
 
    For fonts used in this side
 
