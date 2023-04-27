@@ -115,13 +115,41 @@ There were no unfixed bugs
 
 **Deployment**
 
+The site was deployed to github pages through the following steps.
+
+1 By clicking the setting tab on the Github repository 
+
+2 And scrolling down to Github pages and clicking it.
+
+3 Nvigated to the source and and selected main as the branch to enable
+
+the Githup page and click save.
+
+4 Wich refreshed the page automatically and within few minutes the site was
+
+ready for publishing.
+
+5 Cliked on the link at top provided by Github page and the site was live
+
+but unfortunately the css file was not working but with the help of the code
+
+institute tutor team we were able to find out the bug causing the css not to load
+
+6 The path to the CSS file was preceeded with two dots and a slash forward we 
+
+simply removed the dots and the slash and everything went normal
+
+![css filepath screenshot](assets/images/css1.png)
+
+![css filepath screenshot](assets/images/css2.png)
+
 **Credits**
 
 **Contents**
 
 The font for the site was taken from google fonts
 
-The address for submiting the form was taking from the [code institute] form address(https://codeinstitute.net/)
+The address for submiting the form was taking from the [Code institute](https://codeinstitute.net/)form address.
 
 Media
 
