@@ -151,7 +151,7 @@ The font for the site was taken from google fonts
 
 The address for submiting the form was taking from the [Code institute](https://codeinstitute.net/)form address.
 
-Media
+**Media**
 
 The Photos in the website where taken from [Pixabay] (https://pixabay.com/) and [Pexels](https://www.pexels.com/)
 
