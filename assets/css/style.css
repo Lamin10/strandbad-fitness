@@ -156,8 +156,9 @@ div .button {
     background-color: #FF9B7F;
     border: 1px solid white;
     text-decoration: none;
-    color: #695E7A;
+    color: #371864;
     font-weight: bold;
+    border-radius: 5px;
 }
 
 div .button:hover {
@@ -299,7 +300,7 @@ form {
     max-width: 600px;
     background: rgba(255, 155, 127, 0.9);
     position: absolute;
-    top: 100%;
+    top: 110%;
     left: 50%;
     transform: translate(-50%, -50%); 
     padding: 50px;
@@ -349,7 +350,7 @@ form #button {
 }
 
 
-@media screen and (max-width: 1250px) {
+@media screen and (max-width: 1280px) {
     .our-services {
         width: 85%;
         margin: 10px 20px;
@@ -366,6 +367,16 @@ form #button {
         
     }
 
+    form {
+        top: 80%;
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+    form {
+        top: 110%;
+    }
 }
 
 
@@ -440,7 +451,7 @@ form #button {
    
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 912px) {
 
     
     div .offer {
@@ -485,6 +496,10 @@ form #button {
         width: 12.5rem;
         height: 12.5rem;
         
+    }
+
+    form {
+        top: 50%;
     }
 
 
@@ -534,15 +549,19 @@ form #button {
      
     }
 
+    form {
+        top: 50%;
+    }
+
 
 }
 
 @media screen and (max-width: 768px) {
 
     div .offer {
-        width: 30%;
-        margin-left: 10px;
-        margin-right: 10px;
+        width: 25%;
+        margin-left: 35px;
+        margin-right: 0px;
         padding: 5px;
         
  
@@ -550,9 +569,9 @@ form #button {
      }
  
      div .equipments {
-         width: 30%;
-         margin-left: 10px;
-         margin-right: 10px;
+         width: 25%;
+         margin-left: 35px;
+         margin-right: 0px;
          padding: 5px;
         
         
@@ -561,9 +580,9 @@ form #button {
      }
  
      div .plan {
-         width: 30%;
-         margin-left: 10px;
-         margin-right: 10px;
+         width: 25%;
+         margin-left: 35px;
+         margin-right: 0px;
          padding: 5px;
     
         
@@ -594,6 +613,10 @@ form #button {
         
     }
 
+    form {
+        top: 65%;
+    }
+
   
 }
 
@@ -619,9 +642,10 @@ form #button {
 
     
     div .offer {
-       margin-left: 10px;
-       margin-right: 10px;
-       padding: 25px;
+        width:20%;
+       margin-left: 20px;
+       margin-right: 0px;
+       padding: 15px;
        text-align: center;
        font-size: 1rem;
 
@@ -629,9 +653,10 @@ form #button {
     }
 
     div .equipments {
-        margin-left: 10px;
-        margin-right: 10px;
-        padding: 25px;
+        width:20%;
+        margin-left: 20px;
+        margin-right: 0px;
+        padding: 15px;
         text-align: center;
        
 
@@ -639,9 +664,10 @@ form #button {
     }
 
     div .plan {
-        margin-left: 10px;
-        margin-right: 10px;
-        padding: 25px;
+        width:20%;
+        margin-left: 20px;
+        margin-right: 0px;
+        padding: 15px;
         text-align: center;
        
 
@@ -686,9 +712,9 @@ form #button {
 
 }
 
-@media screen and (max-width: 562px) {
+@media screen and (max-width: 540px) {
     nav a {
-        font-size: 12px;
+        font-size: 14px;
         padding: 0px;
 
     
@@ -696,36 +722,38 @@ form #button {
 
     #hero-image div {
         height: 30%;
-        width: 40%;
+        width: 45%;
         
        
     }
 
     .offer h3 {
-    text-align: left;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 
 
     
     div .offer {
-        width: 60%;
-        margin: 40px;
+        height: 170px;
+        width: 65%;
+        margin-left: 70px;
+        margin-right: 0px;
 
-
+     
     }
 
+
     div .equipments {
-        width: 60%;
-        margin: 40px;
-     
-        
+        width: 65%;
+        margin-left: 70px;
+        margin-right: 0px;
     }
 
     div .plan {
-        width: 60%;
-        margin: 40px;
+        width: 65%;
+        margin-left: 70px;
+        margin-right: 0px;
        
     }
 
@@ -734,8 +762,6 @@ form #button {
         width: 4.2rem;
         font-size: 0.6rem;
         
-        
-       
     }
 
     .our-services {
@@ -763,11 +789,9 @@ form #button {
         padding: 3px 5px;
     }
 
-    form {
-        padding: 20px;
-        margin-left: 5px;
-        margin-right: 5px;
-    }
+   form {
+    top: 90%;
+   }
 
     #form {
         margin: 30px;
@@ -779,7 +803,7 @@ form #button {
 
 }
 
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 414px) {
     #logo{
         margin-left: 40px;
         font-size: 10px;
@@ -813,7 +837,8 @@ form #button {
 
 div .offer {
     width: 60%;
-    margin: 40px;
+    margin-left: 60px;
+   
 }
 
 div .offer h3 {
@@ -829,7 +854,7 @@ div .offer h3 {
 
 div .equipments {
     width: 60%;
-    margin: 40px;
+    margin-left: 60px;
 }
 
 div .equipments h3 {
@@ -845,10 +870,10 @@ div .equipments h3 {
 
 div .plan {
     width: 60%;
-    margin: 40px;
+    margin-left: 60px;
    
-
 }
+
 #about-us h2 {
     text-align: center;
 }
@@ -883,6 +908,49 @@ form {
         
        
     }
+
+}
+
+@media screen and (max-width: 280px) {
+    #hero-image div {
+        height: 30%;
+        width: 50%;
+        
+       
+    }
+
+   div .offer {
+        margin-left: 240px;
+       
+    }
+
+    div .equipments {
+        margin-left: 40px;
+    }
+
+    div .plan {
+        margin-left: 40px;
+       
+    }
+
+    form {
+        top: 80%;
+      
+    }
+
+  #form {
+    margin: 5px;
+  }
+
+  .register input {
+    width: 100%;
+    padding: 2px;
+   
+}
+
+.register label {
+    text-align: center;
+}
 
 }
 
